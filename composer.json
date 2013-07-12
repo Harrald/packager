@@ -1,0 +1,18 @@
+{
+    "name": "Harrald/packager",
+    "type": "library",
+    "description": "Packager is a PHP 5.3+ library to concatenate libraries split in multiple files in a single file. It automatically calculates dependancies. Packager requires a yml header syntax in every file, and a package.yml manifest file, as seen on the MooTools project.",
+    "keywords": ["package", "javascript", "mootools"],
+    "homepage": "https://github.com/harrald/packager",
+    "license": "MIT",
+    "minimum-stability": "unstable",
+    "authors": [
+        {
+            "name": "Harrald Torenlvied",
+            "email": "htorenvlied@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
