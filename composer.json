@@ -5,7 +5,7 @@
     "keywords": ["package", "javascript", "mootools"],
     "homepage": "https://github.com/harrald/packager",
     "license": "MIT",
-    "minimum-stability": "unstable",
+    "minimum-stability": "alpha",
     "authors": [
         {
             "name": "Harrald Torenlvied",
